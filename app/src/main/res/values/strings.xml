@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppContatos</string>
+    <string name="btEditar">Editar</string>
+    <string name="btInserir">Inserir</string>
+    <string name="btExcluir">Excluir</string>
+    <string name="btConsultar">Consultar</string>
+    <string name="txtCabecalho">Gerenciar Contatos</string>
+    <string name="txtInserirContato">Novo Contato</string>
+    <string name="btSalvar">Salvar</string>
+    <string name="editNome">Digite aqui o nome</string>
+    <string name="editTelefone">Digite aqui o telefone</string>
+    <string name="editEmail">Digite aqui o e-mail</string>
+    <string name="btSair">Sair</string>
+    <string name="textListaContatos">Lista de Contatos</string>
+    <string name="textNome">Nome:</string>
+    <string name="textTelefone">Telefone:</string>
+    <string name="textEmail">E-mail:</string>
+    <string name="textId">ID:</string>
+    <string name="textAtualizarContato">Atualizar Contato</string>
+    <string name="textDetalhesContato">Detalhes do Contato</string>
+    <string name="editTitID">ID:</string>
+    <string name="editTitNome">Nome:</string>
+    <string name="editTitTelefone">Telefone:</string>
+    <string name="editTitEmail">E-mail:</string>
+    <string name="btEditSalvar">Salvar</string>
+    <string name="btExcluirContato">Excluir Contato</string>
+</resources>
